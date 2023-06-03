@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.8.16",
+    "heartbeatAt": "2023-06-03T08:06:17.400371",
+    "startedAt": "2023-06-03T08:06:15.910022",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "multimodal_driver.py",
+    "git": {
+        "remote": "git@github.com:energy-charger/MultiModal.git",
+        "commit": "3ba13f5f341aafbb5b739472ebb8e3a22b5ffe53"
+    },
+    "email": "elitemiko123456@gmail.com",
+    "root": "D:/pythonProject",
+    "host": "DESKTOP-F00G9BK",
+    "username": "Administrator",
+    "executable": "D:\\anaconda\\envs\\python_38\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2500.0,
+        "min": 0.0,
+        "max": 2500.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2500.0,
+            "min": 0.0,
+            "max": 2500.0
+        }
+    ],
+    "disk": {
+        "total": 831.285831451416,
+        "used": 672.506950378418
+    },
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 15.863151550292969
+    }
+}
